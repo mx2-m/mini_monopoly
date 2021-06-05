@@ -1,0 +1,41 @@
+
+gameOver.png
+size: 2048,2048
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+BTN_Red
+  rotate: false
+  xy: 2, 2
+  size: 182, 120
+  orig: 182, 120
+  offset: 0, 0
+  index: 7
+exit
+  rotate: false
+  xy: 1100, 1696
+  size: 182, 120
+  orig: 182, 120
+  offset: 0, 0
+  index: -1
+gameover
+  rotate: false
+  xy: 2, 124
+  size: 1096, 906
+  orig: 1096, 906
+  offset: 0, 0
+  index: -1
+startb
+  rotate: false
+  xy: 1100, 1818
+  size: 182, 120
+  orig: 182, 120
+  offset: 0, 0
+  index: -1
+won
+  rotate: false
+  xy: 2, 1032
+  size: 1096, 906
+  orig: 1096, 906
+  offset: 0, 0
+  index: -1

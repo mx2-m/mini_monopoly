@@ -1,0 +1,48 @@
+
+Santa.png
+size: 128,512
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+dm1
+  rotate: false
+  xy: 2, 168
+  size: 100, 81
+  orig: 100, 81
+  offset: 0, 0
+  index: -1
+dm2
+  rotate: false
+  xy: 2, 334
+  size: 100, 81
+  orig: 100, 81
+  offset: 0, 0
+  index: -1
+dm3
+  rotate: false
+  xy: 2, 2
+  size: 100, 81
+  orig: 100, 81
+  offset: 0, 0
+  index: -1
+dm4
+  rotate: false
+  xy: 2, 251
+  size: 100, 81
+  orig: 100, 81
+  offset: 0, 0
+  index: -1
+dm5
+  rotate: false
+  xy: 2, 417
+  size: 100, 81
+  orig: 100, 81
+  offset: 0, 0
+  index: -1
+dm6
+  rotate: false
+  xy: 2, 85
+  size: 100, 81
+  orig: 100, 81
+  offset: 0, 0
+  index: -1

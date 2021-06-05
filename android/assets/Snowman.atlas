@@ -1,0 +1,69 @@
+
+Snowman.png
+size: 1024,128
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+snowman
+  rotate: false
+  xy: 716, 2
+  size: 100, 94
+  orig: 100, 94
+  offset: 0, 0
+  index: -1
+snowman2
+  rotate: false
+  xy: 104, 2
+  size: 100, 94
+  orig: 100, 94
+  offset: 0, 0
+  index: -1
+snowman3
+  rotate: false
+  xy: 614, 2
+  size: 100, 94
+  orig: 100, 94
+  offset: 0, 0
+  index: -1
+snowman4
+  rotate: false
+  xy: 308, 2
+  size: 100, 94
+  orig: 100, 94
+  offset: 0, 0
+  index: -1
+snowman5
+  rotate: false
+  xy: 2, 2
+  size: 100, 94
+  orig: 100, 94
+  offset: 0, 0
+  index: -1
+snowman6
+  rotate: false
+  xy: 512, 2
+  size: 100, 94
+  orig: 100, 94
+  offset: 0, 0
+  index: -1
+snowman7
+  rotate: false
+  xy: 206, 2
+  size: 100, 94
+  orig: 100, 94
+  offset: 0, 0
+  index: -1
+snowman8
+  rotate: false
+  xy: 818, 2
+  size: 100, 94
+  orig: 100, 94
+  offset: 0, 0
+  index: -1
+snowman9
+  rotate: false
+  xy: 410, 2
+  size: 100, 94
+  orig: 100, 94
+  offset: 0, 0
+  index: -1

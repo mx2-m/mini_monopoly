@@ -1,0 +1,160 @@
+
+Atlas.png
+size: 2048,1024
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+boardD
+  rotate: false
+  xy: 2, 194
+  size: 1024, 768
+  orig: 1024, 768
+  offset: 0, 0
+  index: -1
+buy
+  rotate: false
+  xy: 308, 34
+  size: 100, 75
+  orig: 100, 75
+  offset: 0, 0
+  index: -1
+chance
+  rotate: false
+  xy: 1232, 804
+  size: 100, 75
+  orig: 100, 75
+  offset: 0, 0
+  index: -1
+dice
+  rotate: false
+  xy: 1028, 516
+  size: 100, 75
+  orig: 100, 75
+  offset: 0, 0
+  index: -1
+santa_1
+  rotate: false
+  xy: 308, 111
+  size: 100, 81
+  orig: 100, 81
+  offset: 0, 0
+  index: -1
+santa_2
+  rotate: false
+  xy: 1232, 881
+  size: 100, 81
+  orig: 100, 81
+  offset: 0, 0
+  index: -1
+santa_3
+  rotate: false
+  xy: 1130, 702
+  size: 100, 81
+  orig: 100, 81
+  offset: 0, 0
+  index: -1
+santa_4
+  rotate: false
+  xy: 206, 15
+  size: 100, 81
+  orig: 100, 81
+  offset: 0, 0
+  index: -1
+santa_5
+  rotate: false
+  xy: 1130, 785
+  size: 100, 81
+  orig: 100, 81
+  offset: 0, 0
+  index: -1
+santa_6
+  rotate: false
+  xy: 1028, 593
+  size: 100, 81
+  orig: 100, 81
+  offset: 0, 0
+  index: -1
+finish
+  rotate: false
+  xy: 1334, 887
+  size: 100, 75
+  orig: 100, 75
+  offset: 0, 0
+  index: -1
+snowman_1
+  rotate: false
+  xy: 206, 98
+  size: 100, 94
+  orig: 100, 94
+  offset: 0, 0
+  index: -1
+snowman_2
+  rotate: false
+  xy: 1028, 868
+  size: 100, 94
+  orig: 100, 94
+  offset: 0, 0
+  index: -1
+snowman_3
+  rotate: false
+  xy: 104, 2
+  size: 100, 94
+  orig: 100, 94
+  offset: 0, 0
+  index: -1
+snowman_4
+  rotate: false
+  xy: 104, 98
+  size: 100, 94
+  orig: 100, 94
+  offset: 0, 0
+  index: -1
+snowman_5
+  rotate: false
+  xy: 2, 98
+  size: 100, 94
+  orig: 100, 94
+  offset: 0, 0
+  index: -1
+snowman_6
+  rotate: false
+  xy: 1130, 868
+  size: 100, 94
+  orig: 100, 94
+  offset: 0, 0
+  index: -1
+snowman_7
+  rotate: false
+  xy: 2, 2
+  size: 100, 94
+  orig: 100, 94
+  offset: 0, 0
+  index: -1
+snowman_8
+  rotate: false
+  xy: 1028, 676
+  size: 100, 94
+  orig: 100, 94
+  offset: 0, 0
+  index: -1
+snowman_9
+  rotate: false
+  xy: 1028, 772
+  size: 100, 94
+  orig: 100, 94
+  offset: 0, 0
+  index: -1
+start
+  rotate: false
+  xy: 1130, 628
+  size: 100, 72
+  orig: 100, 72
+  offset: 0, 0
+  index: -1
+surprise
+  rotate: false
+  xy: 410, 117
+  size: 100, 75
+  orig: 100, 75
+  offset: 0, 0
+  index: -1
