@@ -15,13 +15,17 @@ jo izkoristi
  Zmagovalec je tisti ki zadnji bankrotira
 
 
-<h2> Mehanika igre </h2>
-<p> Premikanje igralcev, kupovina polja </p>
+<h2> Game mechanics </h2>
+<p> Player movment, buying fields </p>
 
-<h2> Elementi igre: </h2>
-Igralci,
-Polja sa mestima,
-"Surprise" polja,
-"Chance" polja.
-"Go to jail" polje
+<h2> Game elements: </h2>
+* Players
+* Fields with cities,
+* Surprise fields,
+* Chance fields.
+* Go to jail field
+
+<h2> App demo <h2> 
+ ![ Alt text](Monopoly.gif) 
+
 
