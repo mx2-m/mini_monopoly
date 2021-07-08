@@ -1,6 +1,6 @@
 <h1>MONOPOLY</h1>
 
-<h2> Dinamika igre  </h2>
+<h2> Game dynamics  </h2>
 <p>
 Monopoli (v izvirniku angleško Monopoly) je ameriška igra na deski za dva do šest igralcev (v nekaterih različicah do osem), v kateri igralci prevzamejo vlogo posestnikov in med premikanjem po označenih poljih kupujejo ali prodajajo ta polja ter investirajo vanje z gradnjo hiš in hotelov. Ostali igralci morajo lastniku polja, na katerem se znajdejo, plačati najemnino. Cilj igre je s premišljenim investiranjem prevzeti večino polj in prisiliti ostale igralce v bankrot. Po rezultatu – monopolu nad nepremičninskim trgom – ima igra tudi ime.
 
