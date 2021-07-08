@@ -2,30 +2,32 @@
 
 <h2> Game dynamics  </h2>
 <p>
-Monopoli (v izvirniku angleško Monopoly) je ameriška igra na deski za dva do šest igralcev (v nekaterih različicah do osem), v kateri igralci prevzamejo vlogo posestnikov in med premikanjem po označenih poljih kupujejo ali prodajajo ta polja ter investirajo vanje z gradnjo hiš in hotelov. Ostali igralci morajo lastniku polja, na katerem se znajdejo, plačati najemnino. Cilj igre je s premišljenim investiranjem prevzeti večino polj in prisiliti ostale igralce v bankrot. Po rezultatu – monopolu nad nepremičninskim trgom – ima igra tudi ime.
-
+Monopoly is an American board game for two to six players (in some versions up to eight) in which players take on the role of landlords and, while moving through marked fields, buy or sell these fields and invest in them by building houses and hotels. . Other players must pay rent to the owner of the field on which they find themselves. The goal of the game is to take over most of the fields with a thoughtful investment and force the other players into bankruptcy. After the result - a monopoly over the real estate market - the game also has a name.
 </p>
-<h3> Pravila igre:</h3>
-Igralac vrze kocku ter se premika tolko polj na deski,
- ce se ustavi na polju z mestom lahko ga kupi,
- ce se ustavi na "chance" polju dobi nekateru sansu v igri(npr da gre naprej 2 polja...),
- ce se ustavi na "surprise" polju dobi nekatero presenecenje(npr denarj)
- ce se ustavi na "go to jail" polju gre v zapor, iz zapore lahko pride ven tak da plati: 50, ce ima "Go Out of Jail free" kartu lahko
-jo izkoristi
- Zmagovalec je tisti ki zadnji bankrotira
+
+### Game rules:
+The player rolls the dice and moves that many squares on the board,
+  * if he stops in a field with a place he can buy it,
+  * if he stops on the "chance" field he gets some chance in the game (eg to go on 2 fields ...),
+  * if he stops at the "surprise" field he gets some surprise (eg money)
+  * if he stops at the "go to jail" field he goes to jail, he can come out of jail:
+       * if he pays 50 
+       * if he has a "Go Out of Jail free" card 
+  
+  The winner is the one who goes bankrupt last
 
 
 <h2> Game mechanics </h2>
 <p> Player movment, buying fields </p>
 
-<h2> Game elements: </h2>
+## Game elements: 
 * Players
 * Fields with cities,
 * Surprise fields,
 * Chance fields.
 * Go to jail field
 
-<h2> App demo <h2> 
+## App demo 
  ![ Alt text](animation3.gif) 
 
 
