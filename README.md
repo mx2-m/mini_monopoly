@@ -26,6 +26,6 @@ jo izkoristi
 * Go to jail field
 
 <h2> App demo <h2> 
- ![ Alt text](Monopoly.gif) 
+ ![ Alt text](animation3.gif) 
 
 
